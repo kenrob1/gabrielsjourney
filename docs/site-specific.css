@@ -1,0 +1,22 @@
+.navbar-inverse {
+	background-color: #fff;
+}
+.p {
+	background-color: #fff;
+}
+.btn-primary {
+	background-color: #47297e;
+	border-color: #4cae4c;
+}
+.jumbotron {
+	    background-image: url(images/chalkboard3.jpg);
+	    height: 1000px;
+}
+.img {
+	  -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+}
